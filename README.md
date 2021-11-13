@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @SnowWhite1129
-- 👀 I’m interested in cyber security
+- I’m 13m0n, DSNS lab member.
+- I’m interested in cyber security
+  - pwn, reverse
 
 <!---
 SnowWhite1129/SnowWhite1129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
